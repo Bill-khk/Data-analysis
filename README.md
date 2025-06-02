@@ -1,2 +1,2 @@
 # Data-analysis
-Collection of data-analysis project
+Collection of data-analysis project.
